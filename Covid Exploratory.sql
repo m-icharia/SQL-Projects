@@ -1,3 +1,7 @@
+/*
+Data Exploratory Project
+*/
+
 SELECT *
 FROM [Project Portfolio].dbo.CovidDeaths$
 ORDER BY 3, 4
